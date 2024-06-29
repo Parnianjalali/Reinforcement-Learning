@@ -46,6 +46,19 @@ Description: Developed a K-Armed Bandit algorithm in Python, simulating the sele
 Greedy Action Selection in K-Armed Bandit Problem (2021)
 
 Description: Implemented greedy action selection in a K-Armed Bandit problem and compared the performance of greedy and epsilon-greedy strategies with different epsilon values (0, 0.1, 0.01). Analyzed the results through multiple experiments and graphical representations.
+
+Implementing FrozenLake Environment with OpenAI Gym (2021)
+
+Description: Implemented the FrozenLake environment from OpenAI Gym using Python. Developed a simulation to perform random actions in the environment and analyzed the resulting state transitions and rewards.
+Policy Evaluation Using Dynamic Programming in FrozenLake Environment (2021)
+
+Description: Developed a policy evaluation algorithm using dynamic programming with a discount factor of 0.9. Evaluated the value function and optimal policy for the FrozenLake environment and plotted the changes in state values over iterations.
+Monte Carlo Policy Evaluation in FrozenLake Environment (2021)
+
+Description: Applied Monte Carlo methods for policy evaluation in the FrozenLake environment. Compared the results with dynamic programming by plotting the changes in state values over iterations and analyzed the performance differences.
+Off-Policy Monte Carlo Evaluation Using Importance Sampling (2021)
+
+Description: Implemented off-policy Monte Carlo evaluation with importance sampling in the FrozenLake environment. Calculated optimal actions and compared the results with previous methods to assess the efficiency and accuracy of the off-policy approach.
 Upper Confidence Bound (UCB) in K-Armed Bandit Problem (2021)
 
 Description: Applied the Upper Confidence Bound (UCB) method with a confidence level parameter (c=2) to the K-Armed Bandit problem. Compared the average rewards of the UCB method with epsilon-greedy methods by conducting the experiment over 2000 iterations.
